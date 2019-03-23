@@ -1,4 +1,4 @@
-# comidd
+# comid
 Presentaciones para la Asignatura Composición I en Instituto Profesional Arcos Viña del Mar \ 22 de Marzo 2019, utilizando el entorno de presentacion HTML http://lab.hakim.se/reveal-js/ y la libreria de JavaScript https://p5js.org/
 
 001 [https://felixpinok.github.io/comid/001/](https://felixpinok.github.io/comid/001/)
